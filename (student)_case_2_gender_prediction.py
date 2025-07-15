@@ -12,7 +12,7 @@ Original file is located at
    - Once NLTK is installed, the text data files (corpora) should be downloaded.  See the following cell to start the download.
 """
 
-pip install nltk
+# pip install nltk
 
 """## Question 1"""
 
